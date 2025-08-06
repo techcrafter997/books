@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The Power of the Lord's Prayer",
+    "image": "https://pub-954ee37e70244de5bb62c446533dbea3.r2.dev/book_mockup_download.png",
+    "rating": "★★★★★",
+    "status": "TOP RATED",
+    "description": "Although the Lord’s Prayer is often recited without deep reflection, this book reveals its transformative power when understood and prayed with intention.",
+    "actions": [
+      { "label": "📖 Read Sample", "url": "#", "type": "outline-warning" },
+      { "label": "🛒 Buy Now", "url": "#", "type": "warning" },
+      { "label": "📚 Borrow", "url": "#", "type": "outline-warning" }
+    ]
+  },
+  {
+    "title": "The Power of Enthusiasm",
+    "image": "https://pub-954ee37e70244de5bb62c446533dbea3.r2.dev/file_00000000d41c6230b1e3ff5aacfbe6a3.png",
+    "rating": "★★★★★",
+    "status": "TOP RATED",
+    "description": "Discover how enthusiasm can spark a powerful spiritual energy within you — one that uplifts, motivates, and attracts purpose to your daily life.",
+    "actions": [
+      { "label": "📖 Read Sample", "url": "#", "type": "outline-warning" },
+      { "label": "🛒 Buy Now", "url": "#", "type": "warning" },
+      { "label": "📚 Borrow", "url": "#", "type": "outline-warning" }
+    ]
+  },
+  {
+    "title": "The Fountain of Life",
+    "image": "https://pub-954ee37e70244de5bb62c446533dbea3.r2.dev/file_00000000ba8c61f7809d635d1eb6904d%20(2).png",
+    "rating": "☆☆☆☆☆",
+    "status": "COMING SOON",
+    "description": "This book is coming soon. A fresh wellspring of insight is on the way. Stay tuned for its official release!",
+    "actions": [
+      { "label": "📖 Read Sample", "url": "#", "type": "outline-secondary", "disabled": true },
+      { "label": "🛒 Buy Now", "url": "#", "type": "secondary", "disabled": true },
+      { "label": "📚 Borrow", "url": "#", "type": "outline-secondary", "disabled": true }
+    ]
+  }
+]
